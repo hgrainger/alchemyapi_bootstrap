@@ -1,4 +1,4 @@
-# alchemyapi_bootstrap #
+# alchemyapi_php_bootstrap #
 
 An example of various tools that the AlchemyAPI allows you to use wrapped up in a bootstrap PHP web app.
 
